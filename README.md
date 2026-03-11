@@ -1,6 +1,7 @@
 
 
 [Financial Predict Dropout.pptx](https://github.com/user-attachments/files/18606994/Financial.Predict.Dropout.pptx)
+*I have replaced the student data with fake data for privacy reasons.* 
 
 # Financial Dropout Prediction: A Behavioral Risk Study
 **Quantitative Analysis of Student Retention & Financial Stability Factors**
